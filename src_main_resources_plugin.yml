@@ -1,0 +1,15 @@
+name: Essentials
+version: 0.1
+author: Senux
+main: de.senux.essentials.Essentials
+commands:
+  heal:
+    description: Heals a player
+  kill:
+    description: Kills a player
+  gamemode:
+    aliases:
+      - gm
+      - senux
+      - guso
+    description: Gamemode a player
